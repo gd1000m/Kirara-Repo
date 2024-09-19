@@ -2,7 +2,7 @@
 
 >该应用为私有应用，下载了也无法使用，需要申请使用资格
 
-[应用下载](https://github.com/250king/Kirara-Release/releases)
+[应用下载](https://github.com/gd1000m/Kirara-Repo/releases)
 ## 关于各个变体
 在各个Release，你会看到诸如```x86_64```、```x86```、```arm64```、```arm```、```universal```等字眼，这些是为不同的ABI平台而打包的apk变体，每个APK在功能上是没有区别的
 
